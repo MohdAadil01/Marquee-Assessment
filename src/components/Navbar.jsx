@@ -7,13 +7,13 @@ const Navbar = () => {
       <div className="container mx-auto flex justify-between">
         <Link
           to="/"
-          className="text-xl font-bold tracking-widest hover:text-blue-500"
+          className="text-xl font-bold hover:text-blue-500"
         >
           Search Books
         </Link>
         <Link
           to="/bookshelf"
-          className="text-xl font-bold tracking-widest hover:text-blue-500"
+          className="text-xl font-bold hover:text-blue-500"
         >
           My Bookshelf
         </Link>
